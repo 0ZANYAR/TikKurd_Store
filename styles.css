@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+body {
+    background-image: url('assets/.jpg');
+    background-size: cover; /* Makes the image cover the entire screen */
+    background-position: en; /* Centers the image */
+    background-repeat: no-repeat; /* Prevents the image from repeating */
+}
+
+ul li a{
+    text-decoration: none;
+    color: #000000;
+    font-family: Arial;
+    font-weight: bold;
+    transition: 0.4s ease-in-out;
+}
+
+ul li a{
+    text-decoration: none;
+    color: #000000;
+    font-family: Arial;
+    font-weight: bold;
+    transition: 0.4s ease-in-out;
+}

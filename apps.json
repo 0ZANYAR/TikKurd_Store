@@ -1,0 +1,14 @@
+[
+    {
+        "name": "App 1",
+        "description": "Videostar Hack",
+        "image": "assets/star.jpg",
+        "downloadLink": "#"
+    },
+    {
+        "name": "App 2",
+        "description": "Description of App 2.",
+        "image": "assets/app2.png",
+        "downloadLink": "#"
+    }
+]
